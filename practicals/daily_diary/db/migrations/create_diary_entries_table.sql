@@ -1,0 +1,1 @@
+CREATE TABLE diary_entries(id SERIAL PRIMARY KEY, date VARCHAR(20), entry VARCHAR(1000));
